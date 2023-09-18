@@ -17,7 +17,7 @@ I can send you  my resume in Russian, English, Czech.
 - Studying Bachelor's in Computer Science (graduate:2023)
 
 - Currently learning Python and data analysis
-- work as a system/business analyst at Neoflex
+- work as a system analyst in FINTECH
 
 
 
